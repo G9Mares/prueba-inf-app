@@ -1,0 +1,48 @@
+.formContainer{
+    height: fit-content;
+    text-align: center;
+    width: 30rem;
+    background-color: rgb(39, 39, 39);
+    border-radius: 20px;
+}
+@media only screen and (max-width: 767px) {
+    .formContainer {
+        height: 30%;
+    }
+}
+
+.inputInein>span{
+    background-color: rgb(39, 39, 39) !important;
+    border-color: #6C757D !important;
+    color: #6C757D !important;
+}
+
+.inputInein>input{
+    background-color: rgb(39, 39, 39) !important;
+    border-color: #6C757D !important;
+    color: #6C757D !important
+}
+
+.btn{
+    background-color: #D8195C;
+    color: white;
+    border: none;
+    padding-inline: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
+.err{
+    color: #D8195C;
+
+}
+.datos{
+    color: #D8195C !important;
+}
+
+.phone{
+    background-color: rgb(39, 39, 39) !important;
+    border-color: #6C757D !important;
+    color: #6C757D !important
+}
+

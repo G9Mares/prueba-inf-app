@@ -1,0 +1,31 @@
+.inputInein>span{
+    background-color: rgb(39, 39, 39) !important;
+    border-color: #6C757D !important;
+    color: #6C757D !important;
+}
+
+.inputInein>input{
+    background-color: rgb(39, 39, 39) !important;
+    border-color: #6C757D !important;
+    color: #6C757D !important
+}
+.inputpass{
+    border-right: none !important;
+}
+.btn{
+    background-color: #D8195C;
+    color: white;
+    border: none;
+    padding-inline: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
+.err{
+    color: #D8195C;
+
+}
+.datos{
+    color: #D8195C !important;
+}
+
